@@ -7,17 +7,17 @@ basic:
 
 contact:
   location:
-  email: me@example.com
-  phone: +86-111-2222-3333
-  website: example.com
+  email: namhoai.chu@student.uts.edu.au
+  #phone: +86-111-2222-3333
+#   website: example.com
   wechat:
   whatsapp:
   telegram:
-  github: github
+  github: https://github.com/namch29
   gitlab:
   bitbucket:
-  googlescholar:
-  researchgate:
+  googlescholar: https://scholar.google.com/citations?user=L9icwioAAAAJ&hl=en
+  researchgate: https://www.researchgate.net/profile/Nam-Chu
   linkedin:
   medium:
   twitter: twitter
