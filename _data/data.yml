@@ -46,7 +46,6 @@ experiences:
       location: Australia
       details: |
         
-        ...
         
     - role: Lecturer
       time: 2009.10 - Present
@@ -54,13 +53,10 @@ experiences:
       tag:
       location: Hanoi, Vietnam
       details: |
-        • Coordinator and Teaching undergraduate courses including:
             + Data Communication Networks, Multiple Access Techniques in Wireless Communication,
             + Switching Techniques Telecommunication Networks, 
             + Electromagnetic Field Theory, and Antennas and Propagation.
-        • Supervised undergraduate final year projects and research projects for student.
 
-        ...
 
     - role: Technical Support Team
       time: 2008.01 - 2008.09
