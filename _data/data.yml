@@ -192,7 +192,7 @@ evaluation:
     ...
 
 footer:
-  display: false
+  display: true
 
 close: >
   Sorry, my resume has been hidden.
