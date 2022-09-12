@@ -41,7 +41,8 @@ experiences:
   items:
     - role: Research Assistant
       time: 2022.05 - Present
-      company: School of Engineering and Mathematical Sciences, Department of Computer Science and Information Technology, La Trobe University
+      company: School of Engineering and Mathematical Sciences,
+               Department of Computer Science and Information Technology, La Trobe University
       tag:
       location: Australia
       details: |
@@ -161,7 +162,7 @@ publications:
       link:
 
 patents:
-  display: true
+  display: false
   title: Patents
   details: |
     This is all my patents.
@@ -171,10 +172,10 @@ languages:
   display: true
   title: Languages
   items:
-    - idiom: Chinese
+    - idiom: Vietnamese
       level: Native
     - idiom: English
-      level: Professional
+      level: Competence
 
 interests:
   display: true
@@ -186,7 +187,7 @@ interests:
       link:
 
 evaluation:
-  display: true
+  display: false
   title: Self-evaluation
   details: |
     Here is my self evaluation.
