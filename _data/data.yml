@@ -64,7 +64,6 @@ experiences:
       tag: Remote, part-time
       location: Beijing
       details: |
-        Experience in this company:
         • Maintenance and monitoring of computer networks and systems.
         • Diagnosing and solving hardware or software faults.
 
@@ -87,7 +86,6 @@ projects:
       time: 2017.01 - 2017.12
 
       details: |
-        Project Bar's detail, you can write markdown format text.
 
 skills:
   display: false
