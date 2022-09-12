@@ -39,27 +39,38 @@ experiences:
   display: true
   title: Experiences
   items:
-    - role: Backend Developer
-      time: 2018.03 - 2019.03
-      company: Second Company
+    - role: Research Assistant
+      time: 2022.05 - Present
+      company: School of Engineering and Mathematical Sciences, Department of Computer Science and Information Technology, La Trobe University
       tag:
-      location: Beijing
+      location: Australia
       details: |
-        Experience in this company:
-        + First
-        + Second
+        
+        ...
+        
+    - role: Lecturer
+      time: 2009.10 - Present
+      company: DEPARTMENT OF TELECOMMUNICATIONS ENGINEERING, UNIVERSITY OF TRANSPORT AND COMMUNICATIONS
+      tag:
+      location: Hanoi, Vietnam
+      details: |
+        • Coordinator and Teaching undergraduate courses including:
+            + Data Communication Networks, Multiple Access Techniques in Wireless Communication,
+            + Switching Techniques Telecommunication Networks, 
+            + Electromagnetic Field Theory, and Antennas and Propagation.
+        • Supervised undergraduate final year projects and research projects for student.
 
         ...
 
-    - role: Backend Developer
-      time: 2017.03 - 2018.03
+    - role: Technical Support Team
+      time: 2008.01 - 2008.09
       company: First Company
       tag: Remote, part-time
       location: Beijing
       details: |
         Experience in this company:
-        + First
-        + Second
+        • Maintenance and monitoring of computer networks and systems.
+        • Diagnosing and solving hardware or software faults.
 
         ...
 
@@ -70,18 +81,20 @@ projects:
     This is all the projects I'm involved in.
 
   items:
-    - name: Foo
-      link: https://www.google.com
+    - name: Road Pollution Monitoring System, Ministry of Education and Training Project (B2017-GHA-14) 
+      role: Contracted Research Fellow
+      time: 2017.01 - 2018.12
       details: |
-        Project Foo's detail, you can write markdown format text.
 
-    - name: Bar
-      link:
+    - name: Development of Intelligent Wireless Sensor Network, University of Transports and Communications
+      role: Project Manager
+      time: 2017.01 - 2017.12
+
       details: |
         Project Bar's detail, you can write markdown format text.
 
 skills:
-  display: true
+  display: false
   title: Skills
   details: |
     Here is my skills:
@@ -102,27 +115,18 @@ education:
   display: true
   title: Education
   items:
-    - university: Example University
-      time: 2015 - 2018
-      major: Machine Learning
+    - university: UNIVERSITY OF CANBERRA
+      time: 2012 - 2014
+      major: Information Technology
       degree: Master
       details: |
-        Experience in this university:
-        + First
-        + Second
 
-        ...
 
     - university: Example University
-      time: 2011 - 2015
-      major: Computer Science
+      time: 2004 - 2009
+      major: Electronics and Telecommunication Engineering
       degree: Bachelor
       details: |
-        Experience in this university:
-        + First
-        + Second
-
-        ...
 
 certificates:
   display: true
