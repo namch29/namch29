@@ -64,10 +64,9 @@ experiences:
       tag: Remote, part-time
       location: Beijing
       details: |
-        • Maintenance and monitoring of computer networks and systems.
-        • Diagnosing and solving hardware or software faults.
+        + Maintenance and monitoring of computer networks and systems.
+        + Diagnosing and solving hardware or software faults.
 
-        ...
 
 projects:
   display: true
