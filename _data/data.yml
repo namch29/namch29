@@ -41,8 +41,7 @@ experiences:
   items:
     - role: Research Assistant
       time: 2022.05 - Present
-      company: School of Engineering and Mathematical Sciences,
-               Department of Computer Science and Information Technology, La Trobe University
+      company: La Trobe University
       tag:
       location: Australia
       details: |
@@ -51,7 +50,7 @@ experiences:
         
     - role: Lecturer
       time: 2009.10 - Present
-      company: DEPARTMENT OF TELECOMMUNICATIONS ENGINEERING, UNIVERSITY OF TRANSPORT AND COMMUNICATIONS
+      company: University Of Transport And Communications
       tag:
       location: Hanoi, Vietnam
       details: |
