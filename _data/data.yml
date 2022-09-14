@@ -73,19 +73,17 @@ projects:
 
   items:
     - name: Road Pollution Monitoring System.     
-      link:
+      role: Contracted Research Fellow
       time: 2017.01 - 2018.12
+      location: Vietnam
       details: |        
-       + Position: Contracted Research Fellow
        + Fund: Ministry of Education and Training Project (B2017-GHA-14)
-       + Duration: 2017.01 - 2018.12
 
     - name: Intelligent Wireless Sensor Network
-      link:
+      role: Project Manager
+      time: 2017.01 - 2017.12
       details: | 
-       + Position: Project Manager
        + Fund: University of Transports and Communications
-       + Duration:  2017.01 - 2017.12.
       
       
 skills:
