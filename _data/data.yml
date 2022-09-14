@@ -73,18 +73,19 @@ projects:
     This is all the projects I'm involved in.
 
   items:
-    - name: Foo
-      link: https://www.google.com
+    - name: Road Pollution Monitoring System. 
+            Ministry of Education and Training Project (B2017-GHA-14), 2017.01 - 2018.12.
+      link:
       details: |
         Project Foo's detail, you can write markdown format text.
 
     - name: Bar
       link:
-      details: |
-        Project Bar's detail, you can write markdown format text.
-
+      details: | Intelligent Wireless Sensor Network, University of Transports and Communications, 2017.01 - 2017.12.
+      
+      
 skills:
-  display: true
+  display: false
   title: Skills
   details: |
     Here is my skills:
