@@ -38,7 +38,7 @@ experiences:
   title: Experiences
   items:
     - role: Research Assistant
-      time: 2022.05 - Present
+      time: 05/2022 - Present
       company: La Trobe University
       tag:
       location: Australia
@@ -46,7 +46,7 @@ experiences:
           + Advanced Machine Learning for Wireless Network.
 
     - role: Lecturer
-      time: 2009.10 - Present
+      time: 10/2009 - Present
       company: University Of Transport And Communications
       tag:
       location: Vietnam
@@ -58,7 +58,7 @@ experiences:
 
 
     - role: Technical Support Team
-      time: 2008.01 - 2008.09
+      time: 01/2008 - 09/2008
       company: IPMac
       tag: Part-time
       location: Vietnam
@@ -74,14 +74,14 @@ projects:
   items:
     - name: Road Pollution Monitoring System.     
       role: Contracted Research Fellow
-      time: 2017.01 - 2018.12
+      time: 01/2017.01 - 12/2018
       location: Vietnam
       details: |        
        + Fund: Ministry of Education and Training Project (B2017-GHA-14)
 
     - name: Intelligent Wireless Sensor Network
       role: Project Manager
-      time: 2017.01 - 2017.12
+      time: 01/2017 - 12/2017
       details: | 
        + Fund: University of Transports and Communications
       
