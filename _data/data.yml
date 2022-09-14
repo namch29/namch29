@@ -202,7 +202,9 @@ evaluation:
   display: True
   title: Memberships and Professional Activities
   details: |
-
+    <ins>Memrships</ins>
+      + Secretery, IEEE UTS Student Branch (2020 - present)
+      + Student Member, IEEE.
 footer:
   display: true
 
