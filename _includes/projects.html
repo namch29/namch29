@@ -16,20 +16,17 @@
 
         {% for project in projects.items %}
         <div class="item">
-            {% if project.name %}
-            <p class="project">
-                {% if project.link %}
-                <a href="{{ project.link }}" target="_blank">{{ project.name }}</a>
-                {% else %}
-                {{ project.name }}
-                {% endif %}
-            </p>
-            
+            {% if project.name %}         
             <div class="upper-row">
                 <div class="project">
                     {{ project.name}}
                 </div>
                 <div class="time">{{ project.time }}</div>
+            </div>
+            
+            <div class="upper-row">
+                <div class="role">{{ project.role }}</div>
+                <div class="location"><i class="fa-solid fa-location-dot"></i> {{ experience.location }}</div>
             </div>
             
             {% if project.details %}
