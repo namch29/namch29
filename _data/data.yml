@@ -70,9 +70,7 @@ experiences:
 experiences:
   display: true
   title: Projects
-  intro: |
-    This is all the projects I'm involved in.
-
+  intro: 
   items:
     - role: Contracted Research Fellow
       time: 2017.01 - 2018.12
