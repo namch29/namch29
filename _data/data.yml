@@ -26,14 +26,13 @@ contact:
   goodreads:
 
 profile:
-  display: false
+  display: true
   title: Profile
   details: |
-    It's your career profile, you can wirte markdown format text.
-    + First
-    + Second
-
-    ...
+    Nam H. Chu (S’20) received the B.E. degree in Electronics and Telecommunications Engineering from Hanoi University of Science and Technology, Vietnam in 2009 
+    and master’s degree in software engineering from the University of Canberra, Australia in 2014. 
+    I am currently a Ph.D. student at the University of Technology Sydney, Australia. 
+    My research interests include applying machine learning and optimization methods for wireless communication networks.
 
 experiences:
   display: true
