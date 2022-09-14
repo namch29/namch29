@@ -70,8 +70,14 @@ projects:
   display: true
   title: Projects
   intro: |
-
-  items:   
+  items:
+    - name: Optimization models and algorithms for Traffic Engineering in Network Functions Virtualization      
+      role: Contracted Research Fellow
+      time: 10/2020 - 10/2020
+      location: Vietnam
+      details: |        
+       + Fund: Vietnam National Foundation for Science and Technology Development (NAFOSTED)
+       + Grant number: 102.02-2020.13
     
       
       
