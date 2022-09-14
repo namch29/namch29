@@ -43,31 +43,23 @@ experiences:
       tag: Remote, part-time
       location: Australia
       details: |
-        Experience in this company:
-        + First
-        + Second
 
-        ...
 
     - role: Lecturer
       time: 2009.10 - Present
       company: University Of Transport And Communications
       tag:
-      location: Beijing
+      location: Vietnam
       details: |
-        Experience in this company:
-        + First
-        + Second
 
-        ...
+
     - role: Technical Support Team
       time: 2008.01 - 2008.09
       company: IPMac
-      tag: Remote, part-time
-      location: Hanoi, Vietnam
+      tag: part-time
+      location: Vietnam
       details: |
-        + Maintenance and monitoring of computer networks and systems.
-        + Diagnosing and solving hardware or software faults.
+
         
   
 projects:
