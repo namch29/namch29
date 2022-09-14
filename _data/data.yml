@@ -32,8 +32,8 @@ profile:
     I am currently a Ph.D. student at the University of Technology Sydney, Australia. 
     My research interests include applying machine learning and optimization methods for wireless communication networks.
 
-experiences:
-  display: true
+project:
+  display: false
   title: Projects
   intro: 
   items:
