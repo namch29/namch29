@@ -1,5 +1,5 @@
 basic:
-  name: Nam H. Chu
+  name: Nam Hoai Chu
   title: PhD student, Faculty of Engineering and IT, University of Technology Sydney
   avatar:
     display: true
@@ -120,7 +120,7 @@ education:
   display: true
   title: Education
   items:
-    - university: UNIVERSITY OF CANBERRA
+    - university: University of Canberra
       time: 2012 - 2014
       major: Information Technology
       degree: Master
@@ -202,14 +202,27 @@ interests:
       link:
 
 evaluation:
-  display: false
-  title: Self-evaluation
+  display: True
+  title: Memberships and Professional Activities
   details: |
-    Here is my self evaluation.
-    + First
-    + Second
+   - Memrships
+    - Secretery, IEEE UTS Student Branch (2020 - present)
+    - Student Member, IEEE.
 
-    ...
+   -TPC Member
+    - IEEE Wireless Communications and Networking Conference, 10–13 April 2022, Austin, TX, USA
+    - IEEE Wireless Communications and Networking Conference, 26–29 March 2023, Glasgow, Scotland, UK 
+    - IEEE International Workshop on Computer Aided Modeling and Design of Communication Links and Networks (CAMAD), 2 - 4 November 2022, Paris, France
+
+   - Reviewer
+    - IEEE Transactions on Wireless Communications (TWC)
+    - IEEE Transactions on Cognitive Communications and Networking (TCCN)
+    - IEEE Wireless Communications Letters
+    - IEEE Internet of Things Journal
+    - IEEE Open Journal of the Communications Society
+    - IEEE Transactions on Vehicular Technology 
+    - IEEE ACCESS
+    - IEEE WCNC 2022, 2023 
 
 footer:
   display: true
