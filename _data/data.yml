@@ -51,6 +51,9 @@ experiences:
       tag:
       location: Vietnam
       details: |
+          - Data Communication Networks, Multiple Access Techniques in Wireless Communication,
+          - Switching Techniques Telecommunication Networks, 
+          - Electromagnetic Field Theory, and Antennas and Propagation.
 
 
     - role: Technical Support Team
@@ -59,8 +62,8 @@ experiences:
       tag: Part-time
       location: Vietnam
       details: |
-
-        
+        + Maintenance and monitoring of computer networks and systems.
+        + Diagnosing and solving hardware or software faults.        
   
 projects:
   display: true
