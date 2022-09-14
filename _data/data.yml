@@ -1,23 +1,23 @@
 basic:
-  name: Nam H. Chu
-  title: PhD student, Faculty of Engineering and IT, University of Technology Sydney
+  name: Foo Bar
+  title: Backend Developer
   avatar:
     display: true
     path: profile.png
 
 contact:
   location:
-  email: namhoai.chu@student.uts.edu.au
-  #phone: +86-111-2222-3333
-#   website: example.com
+  email: me@example.com
+  phone: +86-111-2222-3333
+  website: example.com
   wechat:
   whatsapp:
   telegram:
-  github: namch29
+  github: github
   gitlab:
   bitbucket:
-  googlescholar: L9icwioAAAAJ&hl
-  researchgate: Nam-Chu
+  googlescholar:
+  researchgate:
   linkedin:
   medium:
   twitter: twitter
@@ -29,60 +29,59 @@ profile:
   display: true
   title: Profile
   details: |
-    I am currently a Ph.D. student at the University of Technology Sydney, Australia. 
-    My research interests include applying machine learning and optimization methods for wireless communication networks.
+    It's your career profile, you can wirte markdown format text.
+    + First
+    + Second
 
+    ...
 
 experiences:
   display: true
   title: Experiences
   items:
-    - role: Research Assistant
-      time: 2022.05 - Present
-      company: La Trobe University
+    - role: Backend Developer
+      time: 2018.03 - 2019.03
+      company: Second Company
       tag:
-      location: Australia
+      location: Beijing
       details: |
-        
-        
-    - role: Lecturer
-      time: 2009.10 - Present
-      company: University Of Transport And Communications
-      tag:
-      location: Hanoi, Vietnam
-      details: |
-            + Data Communication Networks, Multiple Access Techniques in Wireless Communication,
-            + Switching Techniques Telecommunication Networks, 
-            + Electromagnetic Field Theory, and Antennas and Propagation.
+        Experience in this company:
+        + First
+        + Second
 
+        ...
 
-    - role: Technical Support Team
-      time: 2008.01 - 2008.09
-      company: IPMac
+    - role: Backend Developer
+      time: 2017.03 - 2018.03
+      company: First Company
       tag: Remote, part-time
-      location: Hanoi, Vietnam
+      location: Beijing
       details: |
-        + Maintenance and monitoring of computer networks and systems.
-        + Diagnosing and solving hardware or software faults.
+        Experience in this company:
+        + First
+        + Second
+
+        ...
 
 projects:
   display: true
   title: Projects
   intro: |
+    This is all the projects I'm involved in.
+
   items:
-    - name: Road Pollution Monitoring System. Ministry of Education and Training Project (B2017-GHA-14), 2017.01 - 2018.12.
+    - name: Foo
       link: https://www.google.com
       details: |
-      Contracted Research Fellow  
-      
-    - name: Project Manager.
-      Intelligent Wireless Sensor Network, University of Transports and Communications, 2017.01 - 2017.12.
-      link: https://www.google.com
+        Project Foo's detail, you can write markdown format text.
+
+    - name: Bar
+      link:
       details: |
-      Contracted Research Fellow  
- 
+        Project Bar's detail, you can write markdown format text.
+
 skills:
-  display: false
+  display: true
   title: Skills
   details: |
     Here is my skills:
@@ -103,18 +102,27 @@ education:
   display: true
   title: Education
   items:
-    - university: UNIVERSITY OF CANBERRA
-      time: 2012 - 2014
-      major: Information Technology
+    - university: Example University
+      time: 2015 - 2018
+      major: Machine Learning
       degree: Master
       details: |
+        Experience in this university:
+        + First
+        + Second
 
+        ...
 
-    - university: Hanoi University of Science and Technology
-      time: 2004 - 2009
-      major: Electronics and Telecommunication Engineering
+    - university: Example University
+      time: 2011 - 2015
+      major: Computer Science
       degree: Bachelor
       details: |
+        Experience in this university:
+        + First
+        + Second
+
+        ...
 
 certificates:
   display: true
@@ -149,7 +157,7 @@ publications:
       link:
 
 patents:
-  display: false
+  display: true
   title: Patents
   details: |
     This is all my patents.
@@ -159,10 +167,10 @@ languages:
   display: true
   title: Languages
   items:
-    - idiom: Vietnamese
+    - idiom: Chinese
       level: Native
     - idiom: English
-      level: Competence
+      level: Professional
 
 interests:
   display: true
@@ -174,7 +182,7 @@ interests:
       link:
 
 evaluation:
-  display: false
+  display: true
   title: Self-evaluation
   details: |
     Here is my self evaluation.
