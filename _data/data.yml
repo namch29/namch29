@@ -191,9 +191,12 @@ languages:
       level: Professional
 
 interests:
-  display: false
+  display: true
   title: Awards and Honors
-  details: |
+  details:
+    list:
+      - mot
+      - hai
    
        
 evaluation:
