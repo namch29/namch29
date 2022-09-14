@@ -40,7 +40,7 @@ experiences:
     - role: Research Assistant
       time: 2022.05 - Present
       company: La Trobe University
-      tag: Remote, part-time
+      tag:
       location: Australia
       details: |
 
@@ -56,7 +56,7 @@ experiences:
     - role: Technical Support Team
       time: 2008.01 - 2008.09
       company: IPMac
-      tag: part-time
+      tag: Part-time
       location: Vietnam
       details: |
 
