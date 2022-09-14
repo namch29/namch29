@@ -60,30 +60,34 @@ experiences:
 
     - role: Technical Support Team
       time: 2008.01 - 2008.09
-      company: First Company
+      company: IPMac
       tag: Remote, part-time
-      location: Beijing
+      location: Hanoi, Vietnam
       details: |
         + Maintenance and monitoring of computer networks and systems.
         + Diagnosing and solving hardware or software faults.
 
 
-projects:
+experiences:
   display: true
   title: Projects
   intro: |
     This is all the projects I'm involved in.
 
   items:
-    - name: Road Pollution Monitoring System, Ministry of Education and Training Project (B2017-GHA-14) 
-      role: Contracted Research Fellow
+    - role: Contracted Research Fellow
       time: 2017.01 - 2018.12
+      company: Road Pollution Monitoring System, Ministry of Education and Training Project (B2017-GHA-14) 
+      tag:
+      location: Hanoi, Vietnam
       details: |
 
-    - name: Development of Intelligent Wireless Sensor Network, University of Transports and Communications
-      role: Project Manager
+            
+    - role: Project Manager
       time: 2017.01 - 2017.12
-
+      company: Development of Intelligent Wireless Sensor Network, University of Transports and Communications 
+      tag:
+      location: Hanoi, Vietnam
       details: |
 
 skills:
