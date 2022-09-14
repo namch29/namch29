@@ -32,27 +32,6 @@ profile:
     I am currently a Ph.D. student at the University of Technology Sydney, Australia. 
     My research interests include applying machine learning and optimization methods for wireless communication networks.
 
-project:
-  display: false
-  title: Projects
-  intro: 
-  items:
-    - role: Contracted Research Fellow
-      time: 2017.01 - 2018.12
-      company: Road Pollution Monitoring System.
-      Ministry of Education and Training Project (B2017-GHA-14) 
-      tag:
-      location: Vietnam
-      details: |
-
-            
-    - role: Project Manager
-      time: 2017.01 - 2017.12
-      company: Development of Intelligent Wireless Sensor Network, University of Transports and Communications 
-      tag:
-      location: Vietnam
-      details: |
-
 
 experiences:
   display: true
@@ -86,8 +65,23 @@ experiences:
         + Maintenance and monitoring of computer networks and systems.
         + Diagnosing and solving hardware or software faults.
 
-
-
+projects:
+  display: true
+  title: Projects
+  intro: |
+  items:
+    - name: Road Pollution Monitoring System.
+      Vietnam's Ministry of Education and Training Project (B2017-GHA-14), 2017.01 - 2018.12.
+      link: https://www.google.com
+      details: |
+      Contracted Research Fellow  
+      
+    - name: Project Manager.
+      Intelligent Wireless Sensor Network, University of Transports and Communications, 2017.01 - 2017.12.
+      link: https://www.google.com
+      details: |
+      Contracted Research Fellow  
+ 
 skills:
   display: false
   title: Skills
