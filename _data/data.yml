@@ -165,12 +165,9 @@ publications:
       + T. M. Pham, S. Fdida, T. T. L Nguyen, **H. N. Chu**, "Modeling and Analysis of Robust Service Composition for Network Functions Virtualization", *Computer Networks*, Volume 166, 2020, ISSN 1389-1286. (***Computer Networks 2021 Best Paper Award***)
       + T. M. Pham, **H. N. Chu**, "Multi-provider and Multi-domain Resource Orchestration in Network Functions Virtualization", *IEEE Access*, vol. 7, pp. 86920-86931, 2019. doi: 10.1109/ACCESS.2019.2926136.
        
-     <ins>Conference</ins> 
-  
+     <ins>Conference</ins>   
       + N. H. Chu, D. T. Hoang, D. N. Nguyen, N. V. Huynh and E. Dutkiewicz, "Fast or Slow: An Autonomous Speed Control Approach for UAV-assisted IoT Data Collection Networks," *2021 IEEE Wireless Communications and Networking Conference (WCNC)*, 2021, pp. 1-6, doi: 10.1109/WCNC49053.2021.9417563.
-
       + H. N. Chu and T. Pham, "Joint Optimization of Gateway Placement and Multi-hop Routing for the Internet of Things," *2019 6th NAFOSTED Conference on Information and Computer Science (NICS)*, 2019, pp. 88-93, doi: 10.1109/NICS48868.2019.9023789.
-      
       + T-M. Pham, T-M. Nguyen2, X-T-T Nguyen, H-N Chu, and N. H. Son, "Fast Optimal Resource Allocation for Resilient Service Coordination in an NFV-Enabled Internet-of-Things System,", *2022 International Conference on Advanced Technologies for Communications (ATC),* **Accepted**.
       
   items:
@@ -206,23 +203,23 @@ evaluation:
   title: Memberships and Professional Activities
   details: |
    - Memrships
-    - Secretery, IEEE UTS Student Branch (2020 - present)
-    - Student Member, IEEE.
+    + Secretery, IEEE UTS Student Branch (2020 - present)
+    + Student Member, IEEE.
 
-   -TPC Member
-    - IEEE Wireless Communications and Networking Conference, 10–13 April 2022, Austin, TX, USA
-    - IEEE Wireless Communications and Networking Conference, 26–29 March 2023, Glasgow, Scotland, UK 
-    - IEEE International Workshop on Computer Aided Modeling and Design of Communication Links and Networks (CAMAD), 2 - 4 November 2022, Paris, France
+   - TPC Member
+    + IEEE Wireless Communications and Networking Conference, 10–13 April 2022, Austin, TX, USA
+    + IEEE Wireless Communications and Networking Conference, 26–29 March 2023, Glasgow, Scotland, UK 
+    + IEEE International Workshop on Computer Aided Modeling and Design of Communication Links and Networks (CAMAD), 2 - 4 November 2022, Paris, France
 
    - Reviewer
-    - IEEE Transactions on Wireless Communications (TWC)
-    - IEEE Transactions on Cognitive Communications and Networking (TCCN)
-    - IEEE Wireless Communications Letters
-    - IEEE Internet of Things Journal
-    - IEEE Open Journal of the Communications Society
-    - IEEE Transactions on Vehicular Technology 
-    - IEEE ACCESS
-    - IEEE WCNC 2022, 2023 
+    + IEEE Transactions on Wireless Communications (TWC)
+    + IEEE Transactions on Cognitive Communications and Networking (TCCN)
+    + IEEE Wireless Communications Letters
+    + IEEE Internet of Things Journal
+    + IEEE Open Journal of the Communications Society
+    + IEEE Transactions on Vehicular Technology 
+    + IEEE ACCESS
+    + IEEE WCNC 2022, 2023 
 
 footer:
   display: true
