@@ -202,24 +202,6 @@ evaluation:
   display: True
   title: Memberships and Professional Activities
   details: |
-    <ins>Memrships</ins>
-      + Secretery, IEEE UTS Student Branch (2020 - present)
-      + Student Member, IEEE.
-
-    <ins>TPC Member</ins>
-      + IEEE Wireless Communications and Networking Conference, 10–13 April 2022, Austin, TX, USA
-      + IEEE Wireless Communications and Networking Conference, 26–29 March 2023, Glasgow, Scotland, UK 
-      + IEEE International Workshop on Computer Aided Modeling and Design of Communication Links and Networks (CAMAD), 2 - 4 November 2022, Paris, France
-
-   <ins>Reviewer</ins>
-      + IEEE Transactions on Wireless Communications (TWC)
-      + IEEE Transactions on Cognitive Communications and Networking (TCCN)
-      + IEEE Wireless Communications Letters
-      + IEEE Internet of Things Journal
-      + IEEE Open Journal of the Communications Society
-      + IEEE Transactions on Vehicular Technology 
-      + IEEE ACCESS
-      + IEEE WCNC 2022, 2023 
 
 footer:
   display: true
