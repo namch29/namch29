@@ -37,7 +37,7 @@ experiences:
   display: true
   title: Experiences
   items:
-    - role: Research Assistant
+    - role: **Research Assistant**
       time: 2022.05 - Present
       company: La Trobe University
       tag:
@@ -45,18 +45,19 @@ experiences:
       details: |
 
 
-    - role: Lecturer
+    - role: **Lecturer**
       time: 2009.10 - Present
       company: University Of Transport And Communications
       tag:
       location: Vietnam
       details: |
-          + *Data Communication Networks, Multiple Access Techniques in Wireless Communication,*
+          + *Data Communication Networks,* 
+          + *Multiple Access Techniques in Wireless Communication,*
           + *Switching Techniques Telecommunication Networks,* 
           + *Electromagnetic Field Theory, and Antennas and Propagation.*
 
 
-    - role: Technical Support Team
+    - role: **Technical Support Team**
       time: 2008.01 - 2008.09
       company: IPMac
       tag: Part-time
