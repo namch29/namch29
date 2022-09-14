@@ -29,9 +29,13 @@ profile:
   display: true
   title: Profile
   details: |
-    My research interests include applying machine learning  and optimization methods for wireless communication networks.  
-    
-    
+    My research interests include:
+    + Applying machine learning and optimization methods for wireless networks,
+    + Future Internet Architectures and Protocols, 
+    + Network performance analysis and optimization,
+    + Network Functions Virtualization (NFV), Software-Defined Networking (SDN),
+    + Network Privacy and Security.  
+      
 
 experiences:
   display: true
@@ -43,7 +47,7 @@ experiences:
       tag:
       location: Australia
       details: |
-          + Advanced Machine Learning for Wireless Network.
+          + Advanced Machine Learning for Future Wireless Networks.
 
     - role: Lecturer
       time: 10/2009 - Present
@@ -148,27 +152,22 @@ publications:
   display: true
   title: Publications
   intro: |
-    This is all the books I wrote.
-
+    <ins>Under review</ins>
+    1. N. H. Chu, D. N. Nguyen, D. T. Hoang, Q. V. Pham, Khoa T. Phan,  W.J. Hwang, and E. Dutkiewicz, "AI-empowered Joint Communication and Radar Systems with Adaptive Waveform for Autonomous Vehicles," IEEE Transactions on Communications, under review, arXiv preprint arXiv:2202.11508.
+    2. N. H. Chu, D. N. Nguyen, D. T. Hoang, Q. V. Pham, Khoa T. Phan,  W.J. Hwang, and E. Dutkiewicz, "MetaSlicing: A Novel Resource Allocation Framework for Metaverse," IEEE Transactions on Mobile Computing, under review, arXiv preprint arXiv:2202.11508.
+    3. T. T. Vu, N. H. Chu, K. T. Phan, D. T. Hoang, D. N. Nguyen, and E. Dutkiewicz, ''Energy-based Proportional Fairness in Cooperative Edge Computing'',  IEEE Transactions on Mobile Computing, under review.
   items:
-    - title: Foo in Action
-      authors: Foo Bar
-      conference: Foobar, 2019
-      link: https://www.google.com
-    - title: The Art of Bar
-      authors: Foo Bar
-      conference: Foobar, 2019
-      link:
+   
 
 patents:
-  display: true
+  display: false
   title: Patents
   details: |
     This is all my patents.
     + 2020\. A patent name is here. CN123456, filed May 15, 2020, and issued July 20, 2020.
 
 languages:
-  display: true
+  display: false
   title: Languages
   items:
     - idiom: Chinese
@@ -177,7 +176,7 @@ languages:
       level: Professional
 
 interests:
-  display: true
+  display: false
   title: Interests
   items:
     - item: Reading
@@ -186,7 +185,7 @@ interests:
       link:
 
 evaluation:
-  display: true
+  display: false
   title: Self-evaluation
   details: |
     Here is my self evaluation.
