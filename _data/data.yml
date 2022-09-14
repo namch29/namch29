@@ -81,7 +81,8 @@ projects:
 
     - name: Bar
       link:
-      details: | Intelligent Wireless Sensor Network, University of Transports and Communications, 2017.01 - 2017.12.
+      details: | 
+       +Intelligent Wireless Sensor Network, University of Transports and Communications, 2017.01 - 2017.12.
       
       
 skills:
