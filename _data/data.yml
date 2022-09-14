@@ -71,17 +71,26 @@ projects:
   title: Projects
   intro: |
 
-  items:
+  items:   
+    - name: TEN: Optimization models and algorithms for Traffic Engineering in Network Functions Virtualization      
+      role: Contracted Research Fellow
+      time: 10/2020 - 10/2020
+      location: Vietnam
+      details: |        
+       + Fund: Vietnam National Foundation for Science and Technology Development (NAFOSTED)
+       + Grant number: 102.02-2020.13
+       
     - name: Road Pollution Monitoring System.     
       role: Contracted Research Fellow
       time: 01/2017.01 - 12/2018
       location: Vietnam
       details: |        
-       + Fund: Ministry of Education and Training Project (B2017-GHA-14)
+       + Fund: Ministry of Education and Training Project 
+       + Grant number: B2017-GHA-14
 
     - name: Intelligent Wireless Sensor Network
       role: Project Manager
-      time: 01/2017 - 12/2017
+      time: 01/2016 - 12/2016
       location: Vietnam
       details: | 
        + Fund: University of Transports and Communications
@@ -109,27 +118,17 @@ education:
   display: true
   title: Education
   items:
-    - university: Example University
-      time: 2015 - 2018
-      major: Machine Learning
+    - university: UNIVERSITY OF CANBERRA
+      time: 2012 - 2014
+      major: Information Technology
       degree: Master
       details: |
-        Experience in this university:
-        + First
-        + Second
 
-        ...
-
-    - university: Example University
-      time: 2011 - 2015
-      major: Computer Science
+    - university: Hanoi University of Science and Technology
+      time: 2004 - 2009
+      major: Electronics and Telecommunication Engineering
       degree: Bachelor
       details: |
-        Experience in this university:
-        + First
-        + Second
-
-        ...
 
 certificates:
   display: true
