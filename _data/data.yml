@@ -29,7 +29,7 @@ profile:
   display: true
   title: Profile
   details: |
-    My research interests include applying machine learning and optimization methods for wireless communication networks.  
+    My research interests include applying machine learning <\br> and optimization methods for wireless communication networks.  
     
     
 
@@ -51,9 +51,9 @@ experiences:
       tag:
       location: Vietnam
       details: |
-          - Data Communication Networks, Multiple Access Techniques in Wireless Communication,
-          - Switching Techniques Telecommunication Networks, 
-          - Electromagnetic Field Theory, and Antennas and Propagation.
+          + Data Communication Networks, Multiple Access Techniques in Wireless Communication,
+          + Switching Techniques Telecommunication Networks, 
+          + Electromagnetic Field Theory, and Antennas and Propagation.
 
 
     - role: Technical Support Team
