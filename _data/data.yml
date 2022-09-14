@@ -70,19 +70,21 @@ projects:
   display: true
   title: Projects
   intro: |
-    This is all the projects I'm involved in.
 
   items:
-    - name: Road Pollution Monitoring System. 
-            Ministry of Education and Training Project (B2017-GHA-14), 2017.01 - 2018.12.
+    - name: Road Pollution Monitoring System.     
       link:
-      details: |
-        Project Foo's detail, you can write markdown format text.
+      details: |        
+       + Position: Contracted Research Fellow
+       + Fund: Ministry of Education and Training Project (B2017-GHA-14)
+       + Duration: 2017.01 - 2018.12
 
-    - name: Bar
+    - name: Intelligent Wireless Sensor Network
       link:
       details: | 
-       +Intelligent Wireless Sensor Network, University of Transports and Communications, 2017.01 - 2017.12.
+       + Position: Project Manager
+       + Fund: University of Transports and Communications
+       + Duration:  2017.01 - 2017.12.
       
       
 skills:
