@@ -36,6 +36,28 @@ profile:
 
 experiences:
   display: true
+  title: Projects
+  intro: 
+  items:
+    - role: Contracted Research Fellow
+      time: 2017.01 - 2018.12
+      company: Road Pollution Monitoring System.
+      Ministry of Education and Training Project (B2017-GHA-14) 
+      tag:
+      location: Hanoi, Vietnam
+      details: |
+
+            
+    - role: Project Manager
+      time: 2017.01 - 2017.12
+      company: Development of Intelligent Wireless Sensor Network, University of Transports and Communications 
+      tag:
+      location: Hanoi, Vietnam
+      details: |
+
+
+experiences:
+  display: true
   title: Experiences
   items:
     - role: Research Assistant
@@ -67,25 +89,6 @@ experiences:
         + Diagnosing and solving hardware or software faults.
 
 
-experiences:
-  display: true
-  title: Projects
-  intro: 
-  items:
-    - role: Contracted Research Fellow
-      time: 2017.01 - 2018.12
-      company: Road Pollution Monitoring System, Ministry of Education and Training Project (B2017-GHA-14) 
-      tag:
-      location: Hanoi, Vietnam
-      details: |
-
-            
-    - role: Project Manager
-      time: 2017.01 - 2017.12
-      company: Development of Intelligent Wireless Sensor Network, University of Transports and Communications 
-      tag:
-      location: Hanoi, Vietnam
-      details: |
 
 skills:
   display: false
