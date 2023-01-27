@@ -2,7 +2,7 @@ basic:
   name: Nam Hoai Chu
   title: PhD student, Faculty of Engineering and IT, University of Technology Sydney
   avatar:
-    display: true
+    display: false
     path: profile.png
 
 contact:
@@ -61,14 +61,14 @@ experiences:
           + Electromagnetic Field Theory, and Antennas and Propagation.
 
 
-    - role: Technical Support Team
-      time: 01/2008 - 09/2008
-      company: IPMac
-      tag: Part-time
-      location: Vietnam
-      details: |
-        + Maintenance and monitoring of computer networks and systems,
-        + Diagnosing and solving hardware or software faults.       
+    #- role: Technical Support Team
+    #  time: 01/2008 - 09/2008
+    # company: IPMac
+    #  tag: Part-time
+    #  location: Vietnam
+    #  details: |
+    #    + Maintenance and monitoring of computer networks and systems,
+    #    + Diagnosing and solving hardware or software faults.       
   
 projects:
   display: true
