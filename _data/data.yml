@@ -120,19 +120,19 @@ education:
   display: true
   title: Education
   items:
-    - university: University of Canberra
+    - university: University of Technology Sydney, Australia
       time: 2020 - now
       major: Computer System
       degree: PhD
       details: |
       
-    - university: University of Canberra
+    - university: University of Canberra, Australia
       time: 2012 - 2014
       major: Information Technology
       degree: Master
       details: |
 
-    - university: Hanoi University of Science and Technology
+    - university: Hanoi University of Science and Technology, Vietnam
       time: 2004 - 2009
       major: Electronics and Telecommunication Engineering
       degree: Bachelor
@@ -158,11 +158,11 @@ publications:
   display: true
   title: Publications
   intro: |
-    <ins>Under review</ins>
+    #<ins>Under review</ins>
     
-      + **N. H. Chu**, D. N. Nguyen, D. T. Hoang, Q. V. Pham, Khoa T. Phan,  W.J. Hwang, and E. Dutkiewicz, "AI-empowered Joint Communication and Radar Systems with Adaptive Waveform for Autonomous Vehicles," *IEEE Transactions on Communications*, under review, arXiv preprint arXiv:2202.11508.
-      + **N. H. Chu**, Dinh Thai Hoang, Diep N. Nguyen, Khoa T. Phan, Eryk Dutkiewicz, Dusit Niyato, and Tao Shu, "MetaSlicing: A Novel Resource Allocation Framework for Metaverse," *IEEE Transactions on Mobile Computing*, under review, arXiv preprint arXiv:2202.11508.
-      + T. T. Vu, **N. H. Chu**, K. T. Phan, D. T. Hoang, D. N. Nguyen, and E. Dutkiewicz, ''Energy-based Proportional Fairness in Cooperative Edge Computing'',  *IEEE Transactions on Mobile Computing*, under review.
+      #+ **N. H. Chu**, D. N. Nguyen, D. T. Hoang, Q. V. Pham, Khoa T. Phan,  W.J. Hwang, and E. Dutkiewicz, "AI-empowered Joint Communication and Radar Systems with Adaptive Waveform for Autonomous Vehicles," *IEEE Transactions on Communications*, under review, arXiv preprint arXiv:2202.11508.
+      #+ **N. H. Chu**, Dinh Thai Hoang, Diep N. Nguyen, Khoa T. Phan, Eryk Dutkiewicz, Dusit Niyato, and Tao Shu, "MetaSlicing: A Novel Resource Allocation Framework for Metaverse," *IEEE Transactions on Mobile Computing*, under review, arXiv preprint arXiv:2202.11508.
+      #+ T. T. Vu, **N. H. Chu**, K. T. Phan, D. T. Hoang, D. N. Nguyen, and E. Dutkiewicz, ''Energy-based Proportional Fairness in Cooperative Edge Computing'',  *IEEE Transactions on Mobile Computing*, under review.
      
      <ins>Journal</ins> 
      
@@ -187,7 +187,6 @@ patents:
   display: true
   title: Awards and Honors
   details: |
-    + 2020\. A patent name is here. CN123456, filed May 15, 2020, and issued July 20, 2020.
     + 2013 and 2014 Dean’s Excellence Award, University of Canberra, Australia.
     + The Vingroup Science and Technology Scholarship Program for Overseas Study for Master's and Doctoral Degrees (2020-2023).
 
@@ -201,7 +200,7 @@ languages:
       level: Professional
 
 interests:
-  display: true
+  display: false
   title: Awards and Honors
   details:
     list:
