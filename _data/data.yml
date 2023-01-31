@@ -254,7 +254,13 @@ evaluation:
       + IEEE ACCESS
       + IEEE WCNC 2022, 2023 
  
-      
+patents:
+  display: true
+  title: References
+  details: |
+    + Dr. Diep N. Nguyen, Associate Professor, School of Electrical and Data Engineering, University of Technology Sydney, Australia, E-mail: diep.nguyen@uts.edu.au
+    + Dr. Dinh Thai Hoang, Senior Lecturer, School of Electrical and Data Engineering, University of Technology Sydney, Australia, E-mail: hoang.dinh@uts.edu.au
+    + Prof. Eryk Dutkiewicz, Head of School, School of Electrical and Data Engineering, University of Technology Sydney, Australia, E-mail: eryk.dutkiewicz@uts.edu.au.
     
 footer:
   display: true
