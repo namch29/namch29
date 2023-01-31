@@ -98,24 +98,7 @@ projects:
       details: | 
        + Fund: University of Transports and Communications
       
-skills:
-  display: false
-  title: Skills
-  details: |
-    Here is my skills:
-    + First
-    + Second
-
-    ...
-
-  levels:
-    - name: Skill A
-      level: 90
-    - name: Skill B
-      level: 80
-    - name: Skill C
-      level: 70
-
+      
 education:
   display: true
   title: Education
@@ -254,7 +237,25 @@ evaluation:
       + IEEE ACCESS
       + IEEE WCNC 2022, 2023 
  
-    
+
+skills:
+  display: false
+  title: Skills
+  details: |
+    Here is my skills:
+    + First
+    + Second
+
+    ...
+
+  levels:
+    - name: Skill A
+      level: 90
+    - name: Skill B
+      level: 80
+    - name: Skill C
+      level: 70
+      
 footer:
   display: true
 
