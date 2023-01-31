@@ -254,12 +254,16 @@ evaluation:
       + IEEE ACCESS
       + IEEE WCNC 2022, 2023 
  
- evaluation:
-  display: True
+ interests:
+  display: true
   title: References
-  details: |
-      + Secretery, IEEE UTS Student Branch (2020 - present)
-      + Student Member, IEEE and IEEE Communications Society.
+  details:
+    list:
+      - Dr. Diep N. Nguyen, Senior Lecturer
+          School of Electrical and Data Engineering
+          University of Technology Sydney, Australia
+          E-mail: diep.nguyen@uts.edu.au
+      - hai
       
     
 footer:
