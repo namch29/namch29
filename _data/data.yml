@@ -253,7 +253,15 @@ evaluation:
       + IEEE Transactions on Vehicular Technology 
       + IEEE ACCESS
       + IEEE WCNC 2022, 2023 
+ 
+ evaluation:
+  display: True
+  title: References
+  details: |
+      + Secretery, IEEE UTS Student Branch (2020 - present)
+      + Student Member, IEEE and IEEE Communications Society.
       
+    
 footer:
   display: true
 
