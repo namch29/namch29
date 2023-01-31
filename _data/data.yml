@@ -255,7 +255,7 @@ evaluation:
       + IEEE WCNC 2022, 2023 
  
 references:
-  display: true
+  display: false
   title: References
   details: |
     + Dr. Diep N. Nguyen, Associate Professor, School of Electrical and Data Engineering, University of Technology Sydney, Australia, E-mail: diep.nguyen@uts.edu.au
