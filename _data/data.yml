@@ -2,7 +2,7 @@ basic:
   name: Nam Hoai Chu
   title: PhD student, Faculty of Engineering and IT, University of Technology Sydney
   avatar:
-    display: true
+    display: false
     path: profile.png
 
 contact:
