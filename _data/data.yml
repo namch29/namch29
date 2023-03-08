@@ -169,7 +169,12 @@ publications:
   display: true
   title: Publications
   intro: |
+    <ins>Under review</ins>
     
+      + **N. H. Chu**, D. N. Nguyen, D. T. Hoang, Q. V. Pham, Khoa T. Phan,  W.J. Hwang, and E. Dutkiewicz, "AI-enabled mm-Waveform Configuration for Autonomous Vehicles with Integrated Communication and Sensing," *IEEE IoT Journal*, under review, arXiv preprint arXiv:2202.11508.
+      + **N. H. Chu**, Dinh Thai Hoang, Diep N. Nguyen, Khoa T. Phan, Eryk Dutkiewicz, Dusit Niyato, and Tao Shu, "MetaSlicing: A Novel Resource Allocation Framework for Metaverse," *IEEE Transactions on Mobile Computing*, under review, arXiv preprint arXiv:2202.11508.
+      + T. T. Vu, **N. H. Chu**, K. T. Phan, D. T. Hoang, D. N. Nguyen, and E. Dutkiewicz, ''Energy-based Proportional Fairness in Cooperative Edge Computing'',  *IEEE Transactions on Mobile Computing*, under review.
+     
      <ins>Journal</ins> 
      
       + **N. H. Chu**, D. T. Hoang, D. N. Nguyen, N. V. Huynh and E. Dutkiewicz, "Joint speed control and Energy Replenishment Optimization for UAV-assisted IoT Data Collection with Deep Reinforcement Transfer Learning," *IEEE Internet of Things Journal*, doi: 10.1109/JIOT.2022.3151201. 
