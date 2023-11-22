@@ -184,7 +184,7 @@ publications:
   items:
   
 publications:
-  display: false
+  display: true
   title: Publications
   intro: |
     <ins>Under review</ins>      
