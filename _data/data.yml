@@ -102,33 +102,6 @@ education:
       degree: Bachelor
       details: |
 
-publications:
-  display: true
-  title: Publications
-  intro: |
-    <ins>Under review</ins>      
-      + **N. H. Chu**, Dinh Thai Hoang, Diep N. Nguyen, Khoa T. Phan, Eryk Dutkiewicz, Dusit Niyato, and Tao Shu, "MetaSlicing: A Novel Resource Allocation Framework for Metaverse," *IEEE Transactions on Mobile Computing*, under review, [*paper*{: style="color: blue;"}](https://doi.org/10.48550/arXiv.2205.11087).
-      + T. T. Vu, **N. H. Chu**, K. T. Phan, D. T. Hoang, D. N. Nguyen, and E. Dutkiewicz, ''Energy-based Proportional Fairness in Cooperative Edge Computing'',  *IEEE Transactions on Mobile Computing*, under review.
-     
-     <ins>Journal</ins>      
-      + **N. H. Chu**, D. N. Nguyen, D. T. Hoang, Q. V. Pham, Khoa T. Phan,  W.J. Hwang, and E. Dutkiewicz, "AI-enabled mm-Waveform Configuration for Autonomous Vehicles with Integrated Communication and Sensing," *IEEE Internet of Things Journal*, 2023, [*paper*{: style="color: blue;"}](https://doi.org/10.1109/JIOT.2023.3270420).
-      + **N. H. Chu**, D. T. Hoang, D. N. Nguyen, N. V. Huynh and E. Dutkiewicz, "Joint speed control and Energy Replenishment Optimization for UAV-assisted IoT Data Collection with Deep Reinforcement Transfer Learning," *IEEE Internet of Things Journal*, 2022, [*paper*{: style="color: blue;"}](https://doi.org/10.1109/JIOT.2022.3151201). 
-      + C. T. Nguyen, N. V. Huynh, **N. H. Chu**, Y. M. Saputra, D. T. Hoang, D. N. Nguyen, Q. V. Pham, D. Niyato, E. Dutkiewicz, and W. J. Hwang, "Transfer Learning for Future Wireless Networks: A Comprehensive Survey", *Proceedings of the IEEE*, [*paper*{: style="color: blue;"}](https://doi.org/10.1109/JPROC.2022.3175942). 
-      + T. M. Pham, S. Fdida, T. T. L Nguyen, **H. N. Chu**, "Modeling and Analysis of Robust Service Composition for Network Functions Virtualization", *Computer Networks*, Volume 166, 2020, ISSN 1389-1286. (***Computer Networks 2021 Best Paper Award***) [*paper*{: style="color: blue;"}](https://doi.org/10.1016/j.comnet.2019.106989)
-      + T. M. Pham, **H. N. Chu**, "Multi-provider and Multi-domain Resource Orchestration in Network Functions Virtualization", *IEEE Access*, vol. 7, pp. 86920-86931, 2019. [*paper*{: style="color: blue;"}](https://doi.org/10.1109/ACCESS.2019.2926136).
-       
-     <ins>Conference</ins>   
-      + **N. H. Chu**, D. N. Nguyen, D. T. Hoang, K. T. Phan, E. Dutkiewicz, Dusit Niyato, and Tao Shu, "Dynamic Resource Allocation for Metaverse Applications with Deep Reinforcement Learning", *IEEE WCNC 2023,* **accepted**. 
-      + **N. H. Chu**, D. T. Hoang, D. N. Nguyen, N. V. Huynh and E. Dutkiewicz, "Fast or Slow: An Autonomous Speed Control Approach for UAV-assisted IoT Data Collection Networks," *2021 IEEE Wireless Communications and Networking Conference (WCNC)*, 2021, pp. 1-6, [*paper*{: style="color: blue;"}](https://doi.org/10.1109/WCNC49053.2021.9417563)
-      + **H. N. Chu** and T. Pham, "Joint Optimization of Gateway Placement and Multi-hop Routing for the Internet of Things," *2019 6th NAFOSTED Conference on Information and Computer Science (NICS)*, 2019, pp. 88-93, [*paper*{: style="color: blue;"}](https://doi.org/10.1109/NICS48868.2019.9023789).
-      + Nguyen Van Huynh, Nguyen Quang Hieu, **Nam H. Chu**, Diep N. Nguyen, Dinh Thai Hoang, and Eryk Dutkiewicz, "Defeating Eavesdroppers with Ambient Backscatter Communications", *IEEE WCNC 2023,* **accepted**.
-      + Nguyen Quang Hieu, **Nam H. Chu**, Dinh Thai Hoang, Diep N. Nguyen, and Eryk Dutkiewicz, "A Unified Resource Allocation Framework for Virtual Reality Streaming over Wireless Networks", *IEEE ICC 2023,* **accepted**.
-      + Hai M. Nguyen, **Nam H. Chu**, Diep N. Nguyen, Dinh Thai Hoang, Minh Hoang Ha, amd Eryk Dutkiewicz, "Optimal Privacy Preserving in Wireless Federated Learning over Mobile Edge Computing", *IEEE ICC 2023*, **accepted**.
-      + T-M. Pham, T-M. Nguyen, X-T-T Nguyen, **H-N Chu**, and N. H. Son, "Fast Optimal Resource Allocation for Resilient Service Coordination in an NFV-Enabled Internet-of-Things System,", *2022 International Conference on Advanced Technologies for Communications (ATC),* 2022, pp. 141-146. [*paper*{: style="color: blue;"}](10.1109/ATC55345.2022.9943001)
-      
-  items:
-   
-
 patents:
   display: true
   title: Awards and Honors
@@ -210,9 +183,32 @@ publications:
       
   items:
   
-
-
+publications:
+  display: false
+  title: Publications
+  intro: |
+    <ins>Under review</ins>      
+      + **N. H. Chu**, Dinh Thai Hoang, Diep N. Nguyen, Khoa T. Phan, Eryk Dutkiewicz, Dusit Niyato, and Tao Shu, "MetaSlicing: A Novel Resource Allocation Framework for Metaverse," *IEEE Transactions on Mobile Computing*, under review, [*paper*{: style="color: blue;"}](https://doi.org/10.48550/arXiv.2205.11087).
+      + T. T. Vu, **N. H. Chu**, K. T. Phan, D. T. Hoang, D. N. Nguyen, and E. Dutkiewicz, ''Energy-based Proportional Fairness in Cooperative Edge Computing'',  *IEEE Transactions on Mobile Computing*, under review.
+     
+     <ins>Journal</ins>      
+      + **N. H. Chu**, D. N. Nguyen, D. T. Hoang, Q. V. Pham, Khoa T. Phan,  W.J. Hwang, and E. Dutkiewicz, "AI-enabled mm-Waveform Configuration for Autonomous Vehicles with Integrated Communication and Sensing," *IEEE Internet of Things Journal*, 2023, [*paper*{: style="color: blue;"}](https://doi.org/10.1109/JIOT.2023.3270420).
+      + **N. H. Chu**, D. T. Hoang, D. N. Nguyen, N. V. Huynh and E. Dutkiewicz, "Joint speed control and Energy Replenishment Optimization for UAV-assisted IoT Data Collection with Deep Reinforcement Transfer Learning," *IEEE Internet of Things Journal*, 2022, [*paper*{: style="color: blue;"}](https://doi.org/10.1109/JIOT.2022.3151201). 
+      + C. T. Nguyen, N. V. Huynh, **N. H. Chu**, Y. M. Saputra, D. T. Hoang, D. N. Nguyen, Q. V. Pham, D. Niyato, E. Dutkiewicz, and W. J. Hwang, "Transfer Learning for Future Wireless Networks: A Comprehensive Survey", *Proceedings of the IEEE*, [*paper*{: style="color: blue;"}](https://doi.org/10.1109/JPROC.2022.3175942). 
+      + T. M. Pham, S. Fdida, T. T. L Nguyen, **H. N. Chu**, "Modeling and Analysis of Robust Service Composition for Network Functions Virtualization", *Computer Networks*, Volume 166, 2020, ISSN 1389-1286. (***Computer Networks 2021 Best Paper Award***) [*paper*{: style="color: blue;"}](https://doi.org/10.1016/j.comnet.2019.106989)
+      + T. M. Pham, **H. N. Chu**, "Multi-provider and Multi-domain Resource Orchestration in Network Functions Virtualization", *IEEE Access*, vol. 7, pp. 86920-86931, 2019. [*paper*{: style="color: blue;"}](https://doi.org/10.1109/ACCESS.2019.2926136).
        
+     <ins>Conference</ins>   
+      + **N. H. Chu**, D. N. Nguyen, D. T. Hoang, K. T. Phan, E. Dutkiewicz, Dusit Niyato, and Tao Shu, "Dynamic Resource Allocation for Metaverse Applications with Deep Reinforcement Learning", *IEEE WCNC 2023,* **accepted**. 
+      + **N. H. Chu**, D. T. Hoang, D. N. Nguyen, N. V. Huynh and E. Dutkiewicz, "Fast or Slow: An Autonomous Speed Control Approach for UAV-assisted IoT Data Collection Networks," *2021 IEEE Wireless Communications and Networking Conference (WCNC)*, 2021, pp. 1-6, [*paper*{: style="color: blue;"}](https://doi.org/10.1109/WCNC49053.2021.9417563)
+      + **H. N. Chu** and T. Pham, "Joint Optimization of Gateway Placement and Multi-hop Routing for the Internet of Things," *2019 6th NAFOSTED Conference on Information and Computer Science (NICS)*, 2019, pp. 88-93, [*paper*{: style="color: blue;"}](https://doi.org/10.1109/NICS48868.2019.9023789).
+      + Nguyen Van Huynh, Nguyen Quang Hieu, **Nam H. Chu**, Diep N. Nguyen, Dinh Thai Hoang, and Eryk Dutkiewicz, "Defeating Eavesdroppers with Ambient Backscatter Communications", *IEEE WCNC 2023,* **accepted**.
+      + Nguyen Quang Hieu, **Nam H. Chu**, Dinh Thai Hoang, Diep N. Nguyen, and Eryk Dutkiewicz, "A Unified Resource Allocation Framework for Virtual Reality Streaming over Wireless Networks", *IEEE ICC 2023,* **accepted**.
+      + Hai M. Nguyen, **Nam H. Chu**, Diep N. Nguyen, Dinh Thai Hoang, Minh Hoang Ha, amd Eryk Dutkiewicz, "Optimal Privacy Preserving in Wireless Federated Learning over Mobile Edge Computing", *IEEE ICC 2023*, **accepted**.
+      + T-M. Pham, T-M. Nguyen, X-T-T Nguyen, **H-N Chu**, and N. H. Son, "Fast Optimal Resource Allocation for Resilient Service Coordination in an NFV-Enabled Internet-of-Things System,", *2022 International Conference on Advanced Technologies for Communications (ATC),* 2022, pp. 141-146. [*paper*{: style="color: blue;"}](10.1109/ATC55345.2022.9943001)
+      
+  items:
+  
 evaluation:
   display: True
   title: Memberships and Professional Activities
