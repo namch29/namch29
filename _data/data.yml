@@ -86,7 +86,7 @@ education:
   items:
     - university: University of Technology Sydney, Australia
       time: 2020 - present
-      major: Computer System
+      major: Advanced Machine Learning for 6G Networks
       degree: PhD
       details: |
       
@@ -106,7 +106,7 @@ patents:
   display: true
   title: Awards and Honors
   details: |
-    + Recognization as one of the high achieving/contributing HDR students for 2023, University of Technology Sydney.
+    + Recognition as one of the high achieving/contributing HDR students for 2023, University of Technology Sydney.
     + The Vingroup Science and Technology Scholarship Program for Overseas Study for Master's and Doctoral Degrees (2020-2023).
     + 2013 and 2014 Dean’s Excellence Award, University of Canberra, Australia.
 
@@ -205,19 +205,20 @@ evaluation:
       
     <ins>Reviewer</ins>
       + IEEE Transactions on Wireless Communications (TWC)
+      + IEEE Transactions on Communications (TCOM)
       + IEEE Transactions on Cognitive Communications and Networking (TCCN)
-      + IEEE Wireless Communications Letters
-      + IEEE Internet of Things Journal
-      + IEEE Open Journal of the Communications Society
-      + IEEE Transactions on Vehicular Technology 
+      + IEEE Transactions on Vehicular Technology (TVT)
+      + IEEE Wireless Communications Letters (WCL)
+      + IEEE Internet of Things Journal (IoTJ)
+      + IEEE Open Journal of the Communications Society (OJ-COMS)
       + IEEE ACCESS
-      + IEEE WCNC 2022, 2023 
+      + IEEE WCNC 2022, 2023, 2024 
 
 references:
   display: true
   title: Referees
   details: |
-    + Assoc. Prof. Diep N. Nguyen, Associate Professor, School of Electrical and Data Engineering, University of Technology Sydney, Australia, E-mail: diep.nguyen@uts.edu.au
+    + A/Prof. Diep N. Nguyen, Associate Professor, School of Electrical and Data Engineering, University of Technology Sydney, Australia, E-mail: diep.nguyen@uts.edu.au
     + Dr. Dinh Thai Hoang, Senior Lecturer, School of Electrical and Data Engineering, University of Technology Sydney, Australia, E-mail: hoang.dinh@uts.edu.au
     + Prof. Eryk Dutkiewicz, Head of School, School of Electrical and Data Engineering, University of Technology Sydney, Australia, E-mail: eryk.dutkiewicz@uts.edu.au
 
